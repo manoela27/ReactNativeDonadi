@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "react-native-paper": "^5.13.1"
+  },
+  "name": "reactnativedonadi",
+  "description": "A empresa precisa monitorar os valores que entram no caixa, somando as taxas pagas pelos clientes para o registro das marcas.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
